@@ -1,3 +1,8 @@
+/*
+  Fibonacci Sequence implemented in Javascript
+  @Author AJ Catambay
+*/
+
 function fibonacci ( sequenceLength ) {
 	var current = 0;
   var next = 1;
